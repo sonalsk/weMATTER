@@ -5,9 +5,8 @@
 
 ### SCREENSHOT OF THE WORKING APPLICATION
 
-![landingPage](https://github.com/sonalsk/weMATTER/asset/landingPage.jpg?raw=true)
-
-
+![landingPage](https://github.com/sonalsk/weMATTER/blob/main/Asset/landingPage.JPG?raw=true)
+![categoryPage](https://github.com/sonalsk/weMATTER/blob/main/Asset/categoryPage.JPG?raw=true)
 
 ### TARGET AUDIENCE : Rural and Urban Women
 <img src="https://economictimes.indiatimes.com/thumb/msid-70002358,width-1200,height-900,resizemode-4,imgsize-433226/2.jpg?from=mdr" width = 50%>
