@@ -5,7 +5,7 @@
 
 ### SCREENSHOT OF THE WORKING APPLICATION
 
-![alt text](https://github.com/sonalsk/weMATTER/blob/master/landingPage.jpg?raw=true)
+![landingPage](https://github.com/sonalsk/weMATTER/asset/landingPage.jpg?raw=true)
 
 
 
