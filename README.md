@@ -1,6 +1,7 @@
 # A Centralised Web Application: #weMATTER
 
 #weMATTER is a centralised web application for women to come together and learn about their rights and available opportunities in different areas of life.
+<hr>
 
 ### TARGET AUDIENCE : Rural and Urban Women
 <img src="https://economictimes.indiatimes.com/thumb/msid-70002358,width-1200,height-900,resizemode-4,imgsize-433226/2.jpg?from=mdr" width = 50%>
