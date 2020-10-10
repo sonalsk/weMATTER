@@ -45,8 +45,8 @@ the website via Geolocation API.
 
 ### SCREENSHOT OF THE WORKING APPLICATION
 
-![landingPage](https://github.com/sonalsk/weMATTER/blob/main/Asset/landingPage.JPG?raw=true)
-![categoryPage](https://github.com/sonalsk/weMATTER/blob/main/Asset/categoryPage.JPG?raw=true)
+<img src="https://github.com/sonalsk/weMATTER/blob/main/Asset/landingPage.JPG" width = 50%>
+<img src="https://github.com/sonalsk/weMATTER/blob/main/Asset/categoryPage.JPG" width = 50%>
 
 ### MORE INFORMATION
 
