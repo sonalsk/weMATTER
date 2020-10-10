@@ -36,3 +36,12 @@ Information and contact details of nearby schools and colleges will be integrate
 the website via Geolocation API.
 
 <hr>
+
+
+### MORE INFORMATION
+
+To know more about the project, check out the YouTube video at https://www.youtube.com
+
+### CONTACT
+
+In case of any suggestions or enquires, feel free to reach out to the contributors.
