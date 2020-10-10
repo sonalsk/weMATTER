@@ -6,7 +6,6 @@
 ### TARGET AUDIENCE : Rural and Urban Women
 <img src="https://economictimes.indiatimes.com/thumb/msid-70002358,width-1200,height-900,resizemode-4,imgsize-433226/2.jpg?from=mdr" width = 50%>
 
-
 ### ABOUT THE APPLICATION
 
 This web application will be a simple and easy to use platform which will include areas such as;
@@ -17,10 +16,7 @@ This web application will be a simple and easy to use platform which will includ
 - Safety
 - Rights
 
-<img src="https://spoindia.org/wp-content/uploads/2017/04/is-women-empowerment.jpg" width = 50%>
-
 ### BASIC STRUCTURE
-
 
 > *CONTENT DIVISION*
 
@@ -35,8 +31,9 @@ resources, scholarships, schemes and facilities by the Government of India.
 Information and contact details of nearby schools and colleges will be integrated in
 the website via Geolocation API.
 
-<hr>
+<img src="https://spoindia.org/wp-content/uploads/2017/04/is-women-empowerment.jpg" width = 50%> 
 
+<hr>
 
 ### MORE INFORMATION
 
