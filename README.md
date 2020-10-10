@@ -5,7 +5,7 @@
 
 ### SCREENSHOT OF THE WORKING APPLICATION
 
-![landingPage](https://github.com/sonalsk/weMATTER/blob/main/Asset/landingPage.JPG?raw=true?width=50%)
+![landingPage](https://github.com/sonalsk/weMATTER/blob/main/Asset/landingPage.JPG?raw=true)
 ![categoryPage](https://github.com/sonalsk/weMATTER/blob/main/Asset/categoryPage.JPG?raw=true)
 
 ### TARGET AUDIENCE : Rural and Urban Women
