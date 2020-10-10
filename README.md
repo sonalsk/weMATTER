@@ -3,11 +3,6 @@
 #weMATTER is a centralised web application for women to come together and learn about their rights and available opportunities in different areas of life.
 <hr>
 
-### SCREENSHOT OF THE WORKING APPLICATION
-
-![landingPage](https://github.com/sonalsk/weMATTER/blob/main/Asset/landingPage.JPG?raw=true)
-![categoryPage](https://github.com/sonalsk/weMATTER/blob/main/Asset/categoryPage.JPG?raw=true)
-
 ### TARGET AUDIENCE : Rural and Urban Women
 <img src="https://economictimes.indiatimes.com/thumb/msid-70002358,width-1200,height-900,resizemode-4,imgsize-433226/2.jpg?from=mdr" width = 50%>
 
@@ -47,6 +42,11 @@ the website via Geolocation API.
 `https://github.com/sonalsk/weMATTER.git`
 3. Run the index.html file on your local server
 4. Enjoy the application.
+
+### SCREENSHOT OF THE WORKING APPLICATION
+
+![landingPage](https://github.com/sonalsk/weMATTER/blob/main/Asset/landingPage.JPG?raw=true)
+![categoryPage](https://github.com/sonalsk/weMATTER/blob/main/Asset/categoryPage.JPG?raw=true)
 
 ### MORE INFORMATION
 
