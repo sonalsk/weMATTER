@@ -35,6 +35,14 @@ the website via Geolocation API.
 
 <hr>
 
+### LOCAL INSTALLATION
+
+1. Drop a ⭐ on the Github Repository.
+2. Clone the Repo by going to your local Git Client and pushing in the command:
+`https://github.com/sonalsk/weMATTER.git`
+3. Run the index.html file on your local server
+4. Enjoy the application.
+
 ### MORE INFORMATION
 
 To know more about the project, check out the YouTube video at https://www.youtube.com
