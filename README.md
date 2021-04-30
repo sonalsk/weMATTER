@@ -43,14 +43,27 @@ the website via Geolocation API.
 3. Run the index.html file on your local server
 4. Enjoy the application.
 
+### Tech Stack
+1. HTML
+2. Tailwind CSS
+3. JavaScript
+
 ### SCREENSHOT OF THE WORKING APPLICATION
 
 <img src="https://github.com/sonalsk/weMATTER/blob/main/Asset/landingPage.JPG" width = 50%>
 <img src="https://github.com/sonalsk/weMATTER/blob/main/Asset/categoryPage.JPG" width = 50%>
 
-### MORE INFORMATION
+### Project Video
 
-To know more about the project, check out the YouTube video at https://www.youtube.com
+To know more about the project, check out the YouTube video at https://youtu.be/QaY0B-AaKsE
+
+### Project PPT
+
+Link : https://drive.google.com/file/d/1-6GdZO2YI28GmyiS2poIuMxYPeYsh-K8/view?usp=sharing
+
+### Team
+- [Sonal Kushwaha](https://github.com/sonalsk)
+- [Piyush Sharma](https://github.com/spiyush0212)
 
 ### CONTACT
 
