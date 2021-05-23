@@ -55,7 +55,7 @@ the website via Geolocation API.
 
 ### Project Video
 
-To know more about the project, check out the YouTube video at https://youtu.be/QaY0B-AaKsE
+To know more about the project, check out the YouTube video at https://www.youtube.com/watch?v=rICBEMWWCCw
 
 ### Project PPT
 
